@@ -2,9 +2,67 @@
     
     
     
-    
-    width: 80%;
+    height: 120px;
+    width: 500px;
 display:flex ;
 background: rgb(54, 47, 47);
+color:  white;
+font-size: 8px;
+margin: 0;
 
 }
+.numero1{    
+font-size: 60px;
+margin: 0;
+
+
+}
+.nublado{
+width: 100px;
+margin: 10px;
+
+
+
+}
+.sençasao{
+font-size: 17px;
+margin: 0;
+
+
+}
+.flex{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+.numero2{
+font-size: 30px;
+margin: 0;
+}
+.vento{
+width: 30px;
+margin: 0;
+}
+.flex2{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.numero3{
+font-size: 25px;
+margin: 0;
+}
+.km{
+font-size: 14px;
+    
+}
+.flex3{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+

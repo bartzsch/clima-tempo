@@ -1,3 +1,7 @@
+*{
+    margin:0;
+}
+
 .clima{
     
     
@@ -5,10 +9,17 @@
     height: 120px;
     width: 500px;
 display:flex ;
-background: rgb(54, 47, 47);
+background: rgb(99, 92, 92);
 color:  white;
 font-size: 8px;
 margin: 0;
+border-radius: 30px;
+justify-content: center;
+align-items: center;
+}
+.camboriu{
+font-size: 15px;
+
 
 }
 .numero1{    
@@ -19,13 +30,13 @@ margin: 0;
 }
 .nublado{
 width: 100px;
-margin: 10px;
+margin: 20px;
 
 
 
 }
 .sençasao{
-font-size: 17px;
+font-size: 15px;
 margin: 0;
 
 
@@ -42,14 +53,14 @@ font-size: 30px;
 margin: 0;
 }
 .vento{
-width: 30px;
+width: 25px;
 margin: 0;
 }
 .flex2{
 display: flex;
 align-items: center;
 justify-content: center;
-
+margin: 20px;
 }
 .numero3{
 font-size: 25px;
@@ -64,5 +75,38 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
+margin: 10px;
+padding: 0;
 }
+.indice{
+font-size: 17px;
+margin: 0;
+padding: 0;
+}
+.numero4{
+font-size: 25px;
+margin: 0;
+}
+.flex4{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
 
+}
+.umidade{
+font-size: 15px;
+margin: 0;
+
+}
+.numero5{
+font-size: 18px;
+margin: 0;
+
+}
+.flex5{
+
+display: flex;
+padding: 0;
+margin: 0;
+}
